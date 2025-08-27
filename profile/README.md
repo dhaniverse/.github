@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="../assets/logo.png" alt="Dhaniverse Logo" width="160" />
+  <img width="1880" height="400" alt="Dhaniverse Header" src="https://github.com/user-attachments/assets/9e8e4b54-e41f-45e7-aed7-47d273b38d4c" />
+
 </p>
 
 <h1 align="center">
@@ -13,6 +14,24 @@
   <br />
   <a href="https://dhaniverse.in">Enter the live world</a>
 </p>
+
+---
+
+## Gamified Learning. Verifiable Achievements. Financial Empowerment.
+
+Dhaniverse transforms financial education into an engaging 2D RPG experience, making money management skills accessible and rewarding for the next generation through blockchain-verified progress tracking.
+
+**Learn. Verify. Empower.**
+
+## The Next Frontier: Financial Education for Digital GenZ
+
+The global GenZ demographic of 2+ billion young people is unprecedented, but so is the financial literacy crisis. While traditional education fails to address real-world money management, 70% of young adults remain financially vulnerable despite being digitally native.
+
+This is the core challenge at the intersection of education and economics: How do we make financial literacy engaging, accessible, and relevant to GenZ's unique digital-first lifestyle?
+
+Traditional fintech focuses on transactions, but engagement is the final barrier to true financial empowerment.
+
+Dhaniverse is designed to address the massive financial literacy gap among 2+ billion young people worldwide. Our gamified approach to financial education makes learning accessible, engaging, and rewarding through blockchain-verified achievements.
 
 ---
 
